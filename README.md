@@ -11,6 +11,7 @@ In this exercise, I mainly using **SQL** and **BigQuery** to answer the study ca
 - Question 1-1 : **What types of transjakarta transportation and routes are used by the public in 2019?**
 - Question 1-2 : **When Transjakarta transport receive the highest number of passengers? From the top 5 data are there any in the same month?**
 - Question 1-3 : **Count how many trayek with prefix 'ST'.**
+
 To access the code and dataset used in first exercises, you can go to [this link](https://github.com/jonywony/Binar_Study_Case/tree/main/Exercise%201).
 
 ### 2. Exercise 2
@@ -18,4 +19,5 @@ In this exercise, I mainly using **SQL** and **BigQuery** to answer the study ca
 - Question 2-1 : **How many Transjakarta pasenger recorded in 2019?**
 - Question 2-2 : **Replace the data 'BRT' in jenis column to 'Bus Rapid Transit'.**
 - Question 2-3 : **What is maximum pasengers across route corridor? Show it in every route KORIDOR 1-13.**
+
 To access the code and dataset used in second exercises, you can go to [this link](https://github.com/jonywony/Binar_Study_Case/tree/main/Exercise%202).
