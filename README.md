@@ -1,4 +1,5 @@
 # Binar_Study_Case
+Portofolio data with study case from Binar Academy
 
 ## Introduction
 This is the repository i made to highlight my portofolio such as finishing exercies or challenges from Digital Talent Scholarship Binar Academy as Data Scientist. For 6 weeks or more, i will try to finish all of the study case prepared and try to explained how i overcome the challenges with my own explanation.
